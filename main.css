@@ -1,0 +1,40 @@
+.octocat {
+	margin-right: 15px;
+}
+
+.octocat img {
+	width: 335px;
+	border: 1px solid #cfcfcf;
+	border-radius: 5px;
+}
+
+
+.ocotocats img{
+	width: 25px;
+    border: 1px;
+}
+
+
+.authors img {
+	width: 25px;
+}
+
+.octocat {
+ 	float: left;
+ }
+
+ ul {
+ 	list-style: none;
+ }
+
+.image-number: before {
+	content: "#";
+}
+
+.image-number: {
+	content: #114#;
+}
+
+.ocotcat img{ 
+border-width: 25px
+}
